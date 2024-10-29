@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BatchValidator\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-08-19 21:50+0100\n"
+"Last-Translator: rr <rol@rm-r.at>\n"
+"Language-Team: Roloand Rust <wordpress@designpraxis.at>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: AUSTRIA\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: E:\\www.designpraxis.at\\wordpress\\wp-content\\plugins\\\n"
+"X-Poedit-SearchPath-0: BatchValidator\n"
+
+#: BatchValidator/batch-validator.php:54
+#: BatchValidator/batch-validator.php:57
+msgid "check"
+msgstr "prüfen"
+
+#: BatchValidator/batch-validator.php:59
+msgid "Permalink is missing"
+msgstr "Permalink fehlt"
+
+#: BatchValidator/batch-validator.php:67
+msgid "Batch validation finished"
+msgstr "Batch Überprüfing beendet"
+
+#: BatchValidator/batch-validator.php:88
+#: BatchValidator/batch-validator.php:145
+msgid "Starting Validation. Please wait."
+msgstr "Überprüfung wird gestartet"
+
+#: BatchValidator/batch-validator.php:109
+msgid "Batch Validator"
+msgstr "Batch Validator"
+
+#: BatchValidator/batch-validator.php:110
+msgid "Validating your Wordpress site"
+msgstr "Ihre WordPress Seite wird überprüft"
+
+#: BatchValidator/batch-validator.php:117
+msgid "Last validation check"
+msgstr "Letzte Überprüfung"
+
+#: BatchValidator/batch-validator.php:121
+msgid "No check performed since plugin activation"
+msgstr "Keine Überprüfung durchgeführt, seit das Plugin aktiviert wurde"
+
+#: BatchValidator/batch-validator.php:129
+msgid "Your stylesheets are valid"
+msgstr "Die Stylesheets sind gültig"
+
+#: BatchValidator/batch-validator.php:133
+msgid "Your stylesheets are invalid"
+msgstr "Die Stylesheets sind ungültig"
+
+#: BatchValidator/batch-validator.php:133
+msgid "check manually"
+msgstr "manuell überprüfen"
+
+#: BatchValidator/batch-validator.php:138
+msgid "Validating service used by this validator"
+msgstr "Validierungs Service, das für diese Überprüfung benutzt wird"
+
+#: BatchValidator/batch-validator.php:139
+msgid "The document type of your WordPress site is"
+msgstr "Der Document Type Ihrer WordPress Seite ist"
+
+#: BatchValidator/batch-validator.php:140
+msgid "The character set of your WordPress site is"
+msgstr "Das Character Set Ihrer WordPress Seite ist"
+
+#: BatchValidator/batch-validator.php:141
+msgid "Pages with invalid markup are marked"
+msgstr "Seiten, die ungültiges Markup aufweisen sind"
+
+#: BatchValidator/batch-validator.php:141
+msgid "red"
+msgstr "rot"
+
+#: BatchValidator/batch-validator.php:141
+msgid "valid pages"
+msgstr "gültige Seiten"
+
+#: BatchValidator/batch-validator.php:141
+msgid "green"
+msgstr "grün"
+
+#: BatchValidator/batch-validator.php:141
+msgid "previously validated pages are not colored"
+msgstr "und bereits überprüfte Seiten sind nicht eingefärbt markiert"
+
+#: BatchValidator/batch-validator.php:146
+msgid "Check all unvalidated"
+msgstr "Alle unüberprüften überprüfen"
+
+#: BatchValidator/batch-validator.php:148
+msgid "Recheck previously validated"
+msgstr "Alle. auch bereits überprüfte überprüfen"
+
+#: BatchValidator/batch-validator.php:152
+msgid "Stop validation"
+msgstr "Überprüfung abbrechen"
+
+#: BatchValidator/batch-validator.php:158
+msgid "Running into Troubles? Features to suggest?"
+msgstr "Haben Sie Schwierigkeiten mit diesem Plugin? Möchten Sie weitere Funktionen vorschlagen?"
+
+#: BatchValidator/batch-validator.php:160
+msgid "Drop me a line"
+msgstr "Schreiben Sie mir"
+
+#: BatchValidator/batch-validator.php:165
+msgid "Do you like this Plugin?"
+msgstr "Finden Sie dieses Plugin nützlich?"
+
+#: BatchValidator/batch-validator.php:166
+msgid "Consider to"
+msgstr "Unterstützen Sie unsere Arbeit"
+
